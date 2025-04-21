@@ -1,5 +1,5 @@
 {
-    "name": "akashrchandran/spotify-lyrics-api",
+    "name": "aavella77/spotify-lyrics-api",
     "description": "A Rest API for fetching lyrics from Spotify which is powered by Musixmatch.",
     "type": "library",
     "require": {
